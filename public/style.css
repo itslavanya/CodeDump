@@ -1,0 +1,19 @@
+body{
+    background-color: #CCFFBD;
+}
+.carousel-caption{
+    color: black;
+}
+.center{
+    text-align: center;
+}
+.life{
+    text-align: center;
+
+}
+p{
+    font-size: large;
+    margin: 50px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}

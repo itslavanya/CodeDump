@@ -1,0 +1,127 @@
+body{
+  margin:0;
+  text-align:center;
+  color:#40514e;
+
+}
+h1{
+font-family: 'Parisienne', cursive;
+font-size: 5.625rem;
+margin:50px auto 0 auto;
+color:#66bfbf;
+}
+h2{
+
+font-family: 'Tenali Ramakrishna', sans-serif;
+font-size: 2.5rem;
+padding-bottom: 10px;
+line-height: 2rem;
+font-weight: normal;
+color:#66bfbf;
+}
+h3{
+  font-family: 'Poppins', sans-serif;
+  color:#66bfbf;
+}
+p{
+    line-height:2;
+}
+hr{
+  border:dotted #EAF6F6 6px;
+  border-bottom:none;
+  width:3%;
+  margin:100px auto;
+
+}
+.top-container
+{
+  background-color: #EAF6F6;
+padding-top:100px;
+
+position:relative;
+}
+.middle-container
+{
+margin:100px 0;
+}
+.bottom-container
+{
+
+background-color:#66bfbf;
+padding:50px 0 20px;
+}
+.top-cloud{
+
+  position:absolute;
+
+  right:300px;
+  top:50px;
+}
+
+.bottom-cloud{
+  position:absolute;
+left:300px;
+bottom:300px;
+}
+.code{
+  width:25%;
+  float:right;
+margin-left: 30px;
+
+}
+.namaste{
+  width:100px
+
+
+}
+.edit{
+  width:25%;
+float:left;
+margin-right:30px;
+}
+.dis{
+  width:50px;
+  height:50px;
+
+}
+.skill-row {
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+.collab{
+  width:30%;
+  margin: 40px auto 60px;
+}
+
+  .myButton {
+  	background:linear-gradient(to bottom, #3fe6f5 5%, #1490a3 100%);
+  	background-color:#3fe6f5;
+  	border-radius:8px;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family:Arial;
+  	font-size:20px;
+  	padding:13px 31px;
+  	text-decoration:none;
+  	text-shadow:0px 1px 0px #989c9e;
+  }
+  .myButton:hover {
+  	background:linear-gradient(to bottom, #1490a3 5%, #3fe6f5 100%);
+  	background-color:#1490a3;
+  }
+  .myButton:active {
+  	position:relative;
+  	top:1px;
+  }
+  .copyright{
+    color:#EAF6F6;
+    font-size:0.75rem;
+    padding: 20px 0;
+  }
